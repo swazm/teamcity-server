@@ -1,4 +1,4 @@
-[![jetbrains/teamcity-server](https://img.shields.io/docker/pulls/swazm/teamcity-server.svg)](https://hub.docker.com/r/jetbrains/teamcity-server/)
+[![jetbrains/teamcity-server](https://img.shields.io/docker/pulls/swazm/teamcity-server.svg)](https://hub.docker.com/r/swazm/teamcity-server/)
 
 ## TeamCity Server Image Dockerfile
 
