@@ -3,7 +3,7 @@
 
 ## TeamCity Server Image Dockerfile
 
-This project contains the Dockerfiles and all necessary scripts to build the Linux images and run a TeamCity server inside the container.
+This project contains the Dockerfiles and all necessary scripts to build the Linux images and run a TeamCity server inside the container of an alpine linux image.
 
 You can pull the ready-to-use image from the Docker Hub repository
                                      
